@@ -1,7 +1,7 @@
 # deep-ctr-prediction
 
 一些广告算法(CTR预估)相关的DNN模型
-
+这里面包含ESMM模型的代码
 
 * wide&deep 可以参考official/wide_deep
 
